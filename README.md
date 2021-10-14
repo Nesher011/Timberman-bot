@@ -8,7 +8,7 @@ Bot was created basing on steam verion of the game, pixels are hard coded, value
 * Game resolution: 640x480 windowed, right in the centre of screen(as it opens)
 
 # How to run the bot:
-Simply run the script in any IDE of your choice, you might need to install pyautogui, `pip install pyautogui`, then start the game, focus on Timberman window and look how it gets the score for you
+Download and run the script in any IDE of your choice, you might need to install pyautogui, `pip install pyautogui`, then start the game, focus on Timberman window and look how it gets the score for you
 
 ![Alt Text](https://media.giphy.com/media/B2lfevB6IChJJp0kZ0/giphy-downsized-large.gif)
 
